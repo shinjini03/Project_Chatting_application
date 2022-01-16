@@ -1,1 +1,1 @@
-# Chating_application using socket io and nodejs
+# Chatting_application using socket io and nodejs
